@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 O projeto foi realizado com foco na criação de um modelo de Machine Learning com os dados do dataset _Tour & Travels Customer Churn Prediction_, a fim de conseguir classificar se um determinado cliente vai cancelar sua assinatura com uma empresa de viagens e passeios.  
-A linguagem de programação utilizada foi o Python, as análises foram feitas utilizando principalmente as bibliotecas Pandas (para manipulação de tabelas) e Matplotlib juntamente com Seaborn (ambas para visualização de dados), além de utilizar o Sklearn para a utilização dos modelos de Machine Learning.
+A linguagem de programação utilizada foi o Python, as análises foram feitas utilizando principalmente as bibliotecas Pandas (para manipulação de tabelas) e Matplotlib juntamente com Seaborn (ambas para visualização de dados), além de utilizar o Sklearn para a utilização dos modelos de Machine Learning.  
 Depois de uma análise mais superficial, o algoritmo utilizado para o desenvolvimento do modelo de classificação foi o _Decision Tree Classifier_ (Classificador de árvore de decisão), sendo otimizado e avaliado ao longo do trabalho.
 
 ### Contexto do dataset
