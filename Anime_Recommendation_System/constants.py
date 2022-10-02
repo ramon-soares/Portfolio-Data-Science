@@ -1,0 +1,5 @@
+ID_ANIMES_CSV = 'csv/id_animes.csv'
+INFO_ANIMES_CSV = 'csv/info_animes.csv'
+DATABASE_ANIMES_CSV = 'csv/database_animes.csv'
+OUTPUT_CSV = 'csv/output.csv'
+HOME_SCREEN_IMAGE = 'img/home_screen.jpg'
